@@ -1,0 +1,31 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "nj:super_soaker"
+		},
+		"components": {
+			"minecraft:icon": {
+                "texture": "super_soaker"
+            },
+            "minecraft:display_name": {
+                "value": "§l§bSuper Soaker"
+            },
+			"minecraft:on_use": {
+				"on_use": {
+					"event": "nj:shoot",
+					"target": "self"
+				}
+			}
+		},
+		"events": {
+			"nj:shoot": {
+				"shoot": {
+					"projectile": "nj:water_drop",
+					"launch_power": 1
+				}
+			}
+		
+		}
+	}
+}

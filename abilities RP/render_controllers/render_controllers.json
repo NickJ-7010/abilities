@@ -1,0 +1,27 @@
+{
+	"format_version": "1.8.0",
+	"render_controllers": {
+		"controller.render.super_soaker": {
+			"textures": [
+				"Texture.super_soaker"
+			],
+			"geometry": "Geometry.super_soaker",
+			"materials": [
+				{
+					"*": "Material.default"
+				}
+			]
+		},
+		"controller.render.water_drop": {
+			"textures": [
+				"Texture.water_drop"
+			],
+			"geometry": "Geometry.water_drop",
+			"materials": [
+				{
+					"*": "Material.default"
+				}
+			]
+		}
+	}
+}

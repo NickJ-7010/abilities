@@ -1,0 +1,106 @@
+enchantment.arrowDamage= Power
+enchantment.arrowFire= Flame
+enchantment.arrowInfinite= Infinity
+enchantment.arrowKnockback= Punch
+enchantment.crossbowMultishot= Multishot
+enchantment.crossbowPiercing= Piercing
+enchantment.crossbowQuickCharge= Quick Charge
+enchantment.curse.binding= Curse of Binding
+enchantment.curse.vanishing= Curse of Vanishing
+enchantment.damage.all= Sharpness
+enchantment.damage.arthropods= Bane of Arthropods
+enchantment.damage.undead= Smite
+enchantment.digging= Efficiency
+enchantment.durability= Unbreaking
+enchantment.fire= Fire Aspect
+enchantment.fishingSpeed= Lure
+enchantment.frostwalker= Frost Walker
+enchantment.knockback= Knockback
+enchantment.level.1=§8- §a1
+enchantment.level.2=§8- §a2
+enchantment.level.3=§8- §a3
+enchantment.level.4=§8- §a4
+enchantment.level.5=§8- §a5
+enchantment.level.6=§8- §c6
+enchantment.level.7=§8- §c7
+enchantment.level.8=§8- §c8
+enchantment.level.9=§8- §c9
+enchantment.level.10=§8- §c10
+enchantment.lootBonus= Looting
+enchantment.lootBonusDigger= Fortune
+enchantment.lootBonusFishing= Luck of the Sea
+enchantment.mending= Mending
+enchantment.oxygen= Respiration
+enchantment.protect.all= Protection
+enchantment.protect.explosion= Blast Protection
+enchantment.protect.fall= Feather Falling
+enchantment.protect.fire= Fire Protection
+enchantment.protect.projectile= Projectile Protection
+enchantment.soul_speed= Soul Speed
+enchantment.thorns= Thorns
+enchantment.untouching= Silk Touch
+enchantment.waterWalker= Depth Strider
+enchantment.waterWorker= Aqua Affinity
+enchantment.tridentChanneling= Channeling
+enchantment.tridentLoyalty= Loyalty
+enchantment.tridentRiptide= Riptide
+enchantment.tridentImpaling= Impaling
+
+item.bread.name=Bread 
+item.cake.name=Cake 
+item.cookie.name=Cookie 
+item.pumpkin_pie.name=Pumpkin Pie 
+item.honey_bottle.name=Honey Bottle 
+item.mushroom_stew.name=Mushroom Stew 
+item.rabbit_stew.name=Rabbit Stew 
+item.beetroot_soup.name=Beetroot Soup 
+item.dried_kelp.name=Dried Kelp 
+item.rotten_flesh.name=Rotten Flesh 
+item.spider_eye.name=Spider Eye 
+item.chorus_fruit.name=Chorus Fruit 
+
+item.porkchop.name=Raw Porkchop 
+item.fish.name=Raw Cod 
+item.salmon.name=Raw Salmon 
+item.beef.name=Raw Beef 
+item.chicken.name=Raw Chicken 
+item.rabbit.name=Raw Rabbit 
+item.muttonRaw.name=Raw Mutton 
+item.clownfish.name=Tropical Fish 
+item.pufferfish.name=Pufferfish 
+
+item.cooked_porkchop.name=Cooked Porkchop 
+item.cooked_fish.name=Cooked Cod 
+item.cooked_salmon.name=Cooked Salmon 
+item.cooked_chicken.name=Cooked Chicken 
+item.cooked_rabbit.name=Cooked Rabbit 
+item.muttonCooked.name=Cooked Mutton 
+item.baked_potato.name=Baked Potato 
+item.cooked_beef.name=Steak 
+
+item.apple.name=Apple 
+item.golden_apple.name=Golden Apple 
+item.appleEnchanted.name=Enchanted Golden Apple 
+item.melon.name=Melon Slice 
+item.carrot.name=Carrot 
+item.potato.name=Potato 
+item.beetroot.name=Beetroot 
+item.sweet_berries.name=Sweet Berries 
+item.golden_carrot.name=Golden Carrot 
+item.poisonous_potato.name=Poisonous Potato 
+
+chat.type.sleeping=§b§l%s§r §3is now sleeping sweet dreams!
+
+multiplayer.player.joined=§f[§a+§f] §l§a%s
+multiplayer.player.joined.renamed=§f[§a+§f] §l§a%s
+multiplayer.player.joined.realms=§f[§a+§f] §l§a%s
+multiplayer.player.joined.realms.renamed=§f[§a+§f] §l§a%s
+multiplayer.player.left=§f[§c-§f] §l§c%s
+multiplayer.player.left.realms=§f[§c-§f] §l§c%s
+chat.type.text=§f[§b=§f] §b%s §9§l> §r%s
+
+item.totem.name=§6Totem Of §cUndying§f!
+
+text.ui=hello I am %s
+
+createWorldScreen.defaultName=world

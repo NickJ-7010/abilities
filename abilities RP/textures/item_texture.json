@@ -1,0 +1,15 @@
+{
+	"resource_pack_name": "nj",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"super_soaker": { "textures": "textures/items/super_soaker" },
+		"cow": { "textures": "textures/items/cow" },
+		"ores": { "textures": "textures/items/ores" },
+		"make_sandwich": { "textures": "textures/items/make_sandwich" },
+		"speed_sandwich": { "textures": "textures/items/speed_sandwich" },
+		"strength_sandwich": { "textures": "textures/items/strength_sandwich" },
+		"hearty_sandwich": { "textures": "textures/items/hearty_sandwich" },
+		"fireball": { "textures": "textures/items/fireball" },
+		"glasses": { "textures": "textures/items/glasses" }
+	}
+}

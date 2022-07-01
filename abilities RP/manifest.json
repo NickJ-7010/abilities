@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "orgins RP",
+        "description": "v1.0.0",
+        "uuid": "e7fba840-ce5b-4811-be0c-37523afbce48",
+        "version": [1, 0, 1],
+        "min_engine_version": [1, 16, 210]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "b13ca1a4-2452-4b91-beef-36342323243a",
+            "version": [1, 0, 0]
+        }
+    ]
+}

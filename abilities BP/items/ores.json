@@ -1,0 +1,16 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "nj:ores"
+		},
+		"components": {
+			"minecraft:icon": {
+                "texture": "ores"
+            },
+            "minecraft:display_name": {
+                "value": "§l§9Multiply Ores"
+            }
+		}
+	}
+}

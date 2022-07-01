@@ -1,0 +1,16 @@
+{
+	"format_version" : "1.8.0",
+	"animations" : {
+		"animation.first_person_super_soaker": {
+			"loop": true,
+			"override_previous_animation": true,
+			"bones": {
+				"super_soaker": {
+					"position": [ "-10.0 + ((10 - 0) * query.is_swimming)", "16.0 + ((-16 - 4) * query.is_swimming)", "-10.0 + ((10 + 10) * query.is_swimming)" ],
+					"rotation": [ "110.0 + ((-10 + 195) * query.is_swimming)", "-15.0 + ((15 + 5) * query.is_swimming)", "180.0 + ((-180 - 45) * query.is_swimming)" ],
+					"scale": [ 4, 4, 4 ]
+				}
+			}
+		}
+	}
+}

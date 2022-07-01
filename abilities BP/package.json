@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@types/mojang-gametest": "^0.1.3",
+    "@types/mojang-minecraft": "^0.1.5",
+    "@types/mojang-minecraft-ui": "^0.1.0",
+    "typescript": "^4.5.4"
+  },
+  "name": "mcapi",
+  "version": "1.0.0",
+  "description": "MCAPI Is A Minecraft Bedrock API For Connecting",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}

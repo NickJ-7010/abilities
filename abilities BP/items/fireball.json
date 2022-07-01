@@ -1,0 +1,31 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "nj:fireball"
+		},
+		"components": {
+			"minecraft:icon": {
+                "texture": "fireball"
+            },
+            "minecraft:display_name": {
+                "value": "§l§6Fireball"
+            },
+			"minecraft:on_use": {
+				"on_use": {
+					"event": "nj:shoot",
+					"target": "self"
+				}
+			}
+		},
+		"events": {
+			"nj:shoot": {
+				"shoot": {
+					"projectile": "minecraft:fireball",
+					"launch_power": 1
+				}
+			}
+		
+		}
+	}
+}

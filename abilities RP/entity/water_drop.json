@@ -1,0 +1,23 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "nj:water_drop",
+            "materials": {
+                "default": "entity_alphatest"
+            },
+            "textures": {
+                "water_drop": "textures/entity/water_drop"
+            },
+            "geometry": {
+                "water_drop": "geometry.water_drop"
+            },
+            "render_controllers": [
+                "controller.render.water_drop"
+            ],
+
+            "enable_attachables": false,
+            "hide_armor": false
+        }
+    }
+}

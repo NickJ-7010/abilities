@@ -1,0 +1,19 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "nj:broken_glasses"
+		},
+		"components": {
+			"minecraft:icon": {
+                "texture": "glasses"
+            },
+            "minecraft:display_name": {
+                "value": "§l§cBroken §7Glasses"
+            },
+			"minecraft:wearable": {
+				"slot": "slot.armor.head"
+			}
+		}
+	}
+}
